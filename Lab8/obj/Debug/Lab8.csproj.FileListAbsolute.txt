@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab8\Lab8\bin\Debug\Lab8.exe.config
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab8\Lab8\bin\Debug\Lab8.exe
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab8\Lab8\bin\Debug\Lab8.pdb
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab8\Lab8\obj\Debug\Lab8.exe
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab8\Lab8\obj\Debug\Lab8.pdb
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab8\Lab8\obj\Debug\Lab8.SlideViewer.resources
+\\Mac\Home\Documents\Software_Engineering\ECE\EC447\Lab8\Lab8\obj\Debug\Lab8.Slides.resources
